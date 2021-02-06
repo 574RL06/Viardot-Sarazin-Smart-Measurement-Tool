@@ -3,9 +3,9 @@ Outils de mesure intelligent par Viardot-Sarazin
 à la demande de prof. Antoine Ferreira, maître de conférence.
 
 ## Membres
-### Hugo Sarazin
+### - Hugo Sarazin
 4ème année MRI - EA Systèmes Avancés
-### Jean-François Viardot
+### - Jean-François Viardot
 4ème année MRI - EA Systèmes Avancés
 
 ## Introduction
