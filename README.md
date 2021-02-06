@@ -19,4 +19,4 @@ Ceci est la conclusion
 
 ## Remerciement
 Nous remercions :
-  M. Ruipeng Chen, doctorant, pour ses lumières.
+ - M. Ruipeng Chen, doctorant, pour ses lumières.
