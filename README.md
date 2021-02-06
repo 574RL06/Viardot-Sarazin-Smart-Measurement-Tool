@@ -4,9 +4,9 @@ Outils de mesure intelligent par Viardot-Sarazin
 
 ## Membres
 ### - Hugo Sarazin
-4ème année MRI - EA Systèmes Avancés
+ - - 4ème année MRI - EA Systèmes Avancés
 ### - Jean-François Viardot
-4ème année MRI - EA Systèmes Avancés
+ - - 4ème année MRI - EA Systèmes Avancés
 
 ## Introduction
 Ceci est une introduction
