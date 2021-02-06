@@ -15,4 +15,4 @@ Il est donc nécessaire d'évaluer l'ensemble des e_k(x_i).
 On obtient un calcul de différences divisées d'ordre i proposant que :
 f(x_0,...,x_i)=\alpha_i = (f(x_1,...,x_i)-f(x_0,...,x_(i-1)))/(x_i - x_0)
 
-Cette méthode étant longue et, d'après nous, dépréciée, nous utiliserons des algorithmes d'intelligence artificielle que nous jugeons plus performant.
+Cette méthode étant longue et, d'après nous, dépréciée, nous utiliserons des algorithmes d'intelligence artificielle que nous jugeons plus performant, car permettant de mettre en symbiose une plus grande quantité de données.
