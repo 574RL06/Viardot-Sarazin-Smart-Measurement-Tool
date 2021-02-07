@@ -7,13 +7,13 @@ Outils de mesure intelligent par Viardot-Sarazin
 - Jean-François Viardot, 4ème année MRI - EA Systèmes Avancés
 
 ## Introduction
-Ceci est une introduction
+Les outils mathématiques qu'offrent Newton ou encore Lagrange au regard des algorithmes d'interpolation semblent aujourd'hui presque dépréciés. Face à la puissance des algorithmes d'intelligence artificielle de machine learning et de deep learning, les mathématiques standards ont des airs de lointains souvenirs.
 
 ## Résumé
 Ceci est le résumé
 
 ## Conclusion
-Les outils mathématiques qu'offrent Newton ou encore Lagrange au regard des algorithmes d'interpolation semblent aujourd'hui presque dépréciés. Face à la puissance des algorithmes d'intelligence artificielle de machine learning et de deep learning, les mathématiques standards ont des airs de lointains souvenirs.
+Conclusion
 
 ## Remerciement
 Nous remercions :
