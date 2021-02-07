@@ -13,7 +13,7 @@ Ceci est une introduction
 Ceci est le résumé
 
 ## Conclusion
-Ceci est la conclusion
+Les outils mathématiques qu'offrent Newton ou encore Lagrange au regard des algorithmes d'interpolation semblent aujourd'hui presque dépréciés. Face à la puissance des algorithmes d'intelligence artificielle de machine learning et de deep learning, les mathématiques standards ont des airs de lointains souvenirs.
 
 ## Remerciement
 Nous remercions :
