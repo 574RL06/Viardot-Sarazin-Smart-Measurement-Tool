@@ -3,3 +3,5 @@ On considèrera que l'intervalle de distance pour les mesures établi par M. Rui
 
 Le capteur est un capteur à effet hall circonscrit dans un cube de 40mm de coté.
 On placera le point central du poignet du robot au centre de ce cube.
+
+On réduira l'orientation des différentes bobines à l'orientation du plateau qui les relie.

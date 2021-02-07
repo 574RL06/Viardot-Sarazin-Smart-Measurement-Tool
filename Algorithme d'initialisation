@@ -1,5 +1,6 @@
-On établit pour notre robot scara la position du poignet en (x,y,z) et les rotations des points A_1 et A_2 (respectivement \theta_1 et \theta_2) tels que :
+On établit pour notre robot scara la position du poignet en (x,y,z) et les rotations des points A_1 et A_2 (respectivement \theta_1 et \theta_2) telles que :
 
 \theta_1 = 2 tan^(-1) ((-a_1 y +- sqrt(a_1 ^2(x^2+y^2)-(a_1 ^2-a_2 ^2+x^2+y^2)^2))/(a_1 ^2-a_2 ^2+x^2+y^2-2a_1 x))
 \theta_2 = cos^(-1)((x-a_1 cos\theta_1)/a_2 ) - \theta1
 
+On positionne le plateau à sa position la plus basse et horizontale.
