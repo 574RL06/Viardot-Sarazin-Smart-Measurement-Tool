@@ -1,5 +1,5 @@
-Les outils mathématiques qu'offrent Newton ou encore Lagrange au regard des algorithmes d'interpolation semblent aujourd'hui presque dépréciés. Face à la puissance des algorithmes d'intelligence artificielle de machine learning et de deep learning, les mathématiques standards ont des airs de lointain souvenir.
-Lagrange nous offre la possibilité de déterminer une fonction polynomial passant par l'ensemble des points de mesures renseignées. 
+Les outils mathématiques qu'offrent Newton ou encore Lagrange au regard des algorithmes d'interpolation semblent aujourd'hui presque dépréciés. Face à la puissance des algorithmes d'intelligence artificielle de machine learning et de deep learning, les mathématiques standards ont des airs de lointains souvenirs.
+Lagrange nous offre la possibilité de déterminer une fonction polynomiale passant par l'ensemble des points de mesures renseignées. 
 Le polynome a donc la forme :
 P_n(x)=\Sigma_(k=0)^n l_k(x)f(x_k)
 avec l_k un polynome de degré n.
