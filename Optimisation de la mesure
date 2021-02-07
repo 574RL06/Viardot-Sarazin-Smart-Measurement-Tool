@@ -1,1 +1,5 @@
 Nous avons donc réalisé un robot SCARA permettant d'évaluer avec précision la position du capteur à effet hall. Il permet également de se déplacer plus rapidement qu'une personne chargée de faire manuellement les mesures. On pourra réaliser plus de mesures dans un temps moindre.
+On considèrera que l'intervalle de distance pour les mesures établi par M. Ruipeng Chen est suffisamment précis. Nous utiliserons le même : tous les 4mm dans toutes les directions.
+
+Le capteur est un capteur à effet hall circonscrit dans un cube de 40mm de coté.
+On placera le point central du poignet du robot au centre de ce cube.
