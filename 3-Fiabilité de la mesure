@@ -1,7 +1,0 @@
-Nous avons jugé après entretien avec M. Ruipeng Chen que sa méthodologie de mesure expérimentale n'était pas optimisée : Imprécision sur la position du capteur.
-
-Remarque : A considérer que la position du capteur soit suffisamment précise, on considère surtout que la mesure manuelle est laborieuse et fastidieuse. 
-
-Nous proposons d'établir un processus entièrement automatisé permettant de valider avec une plus grand précision la position et l'orientation du capteur.
-
-Les bobines sur le banc d'essai sont déplacables grâce à des moteurs que nous n'omettrons pas d'asservir à notre système.
