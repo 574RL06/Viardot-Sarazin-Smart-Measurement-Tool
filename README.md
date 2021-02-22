@@ -11,6 +11,8 @@ Les outils mathématiques qu'offrent Newton ou encore Lagrange au regard des alg
 
 ## Résumé
 Le protocole de mesure expérimentale a été amélioré et automatisé. Avec une vitesse d'échantillonage d'une mesure par seconde, le robot dressera une dataset complète en 12 heures et 9 minutes. Il apparait d'autant plus évident que la mesure manuelle est totalement dépréciée.
+La dataset a été structurée afin d'être injectée dans le module Python TensorFlow.
+La finalité est a posterio de pouvoir donner à TensorFlow un ensemble de paramètres tels que la position de l'espace, le champs magnétique et l'orientation du champ magnétique souhaité. L'algorithme donnera à l'utilisateur (voire en commande directe sur le système) les valeurs de position des bobines afin d'obtenir la sortie souhaitée.
 
 ## Conclusion
 Nous avons travaillé avec une approche quasi-industrielle dans le cadre de cette étude. Nous n’avons pas cherché à faire évoluer la technique sur le plan mathématique mais avons optimisé l’expérience afin d’obtenir un rendement de sortie.
