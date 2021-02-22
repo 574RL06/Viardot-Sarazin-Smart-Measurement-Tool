@@ -16,7 +16,7 @@ Le protocole de mesure expérimentale a été amélioré et automatisé. Avec un
 
 La dataset a été structurée afin d'être injectée dans le module Python TensorFlow.
 
-La finalité est a posterio de pouvoir donner à TensorFlow un ensemble de paramètres tels que la position de l'espace, le champs magnétique et l'orientation du champ magnétique souhaité. L'algorithme donnera à l'utilisateur (voire en commande directe sur le système) les valeurs de position des bobines afin d'obtenir la sortie souhaitée.
+La finalité est a posterio de pouvoir donner à TensorFlow un ensemble de paramètres tels que la position de l'espace, le champ magnétique et l'orientation du champ magnétique souhaité. L'algorithme donnera à l'utilisateur (voire en commande directe sur le système) les valeurs de position des bobines afin d'obtenir la sortie souhaitée.
 
 ## Conclusion
 Nous avons travaillé avec une approche quasi-industrielle dans le cadre de cette étude. Nous n’avons pas cherché à faire évoluer la technique sur le plan mathématique mais avons optimisé l’expérience afin d’obtenir un rendement de sortie.
