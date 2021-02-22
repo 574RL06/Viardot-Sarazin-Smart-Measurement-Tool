@@ -7,8 +7,7 @@ import tensorflow as tf
 from tensorflow.keras import layers
 from tensorflow.keras.layers.experimental import preprocessing
 
-#abalone_train = pd.read_csv("data.csv",names=["x", "y", "z", "r1", "r2",
-           "t1", "t2", "V"])
+#abalone_train = pd.read_csv("data.csv",names=["x", "y", "z", "r1", "r2","t1", "t2", "V"])
 
 
 abalone_train.head()
